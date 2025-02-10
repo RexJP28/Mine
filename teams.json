@@ -1,0 +1,489 @@
+{
+  "international": {
+    "South Africa": {
+      "name": "South Africa",
+      "players": [
+        {"id": 1, "name": "Temba Bavuma", "role": "Batsman", "batting": 85, "bowling": 20},
+        {"id": 2, "name": "Quinton de Kock", "role": "Wicket-Keeper", "batting": 88, "bowling": 10},
+        {"id": 3, "name": "Heinrich Klaasen", "role": "Wicket-Keeper", "batting": 85, "bowling": 10},
+        {"id": 4, "name": "Aiden Markram", "role": "Batsman", "batting": 85, "bowling": 45, "bowlingStyle": "Off Spin"},
+        {"id": 5, "name": "David Miller", "role": "Batsman", "batting": 85, "bowling": 15},
+        {"id": 6, "name": "Kagiso Rabada", "role": "Bowler", "batting": 35, "bowling": 90, "bowlingStyle": "Fast"},
+        {"id": 7, "name": "Anrich Nortje", "role": "Bowler", "batting": 25, "bowling": 88, "bowlingStyle": "Fast"},
+        {"id": 8, "name": "Marco Jansen", "role": "All-Rounder", "batting": 65, "bowling": 85, "bowlingStyle": "Left Arm Fast"},
+        {"id": 9, "name": "Lungi Ngidi", "role": "Bowler", "batting": 20, "bowling": 85, "bowlingStyle": "Fast"},
+        {"id": 10, "name": "Keshav Maharaj", "role": "Bowler", "batting": 45, "bowling": 85, "bowlingStyle": "Left Arm Spin"},
+        {"id": 11, "name": "Tabraiz Shamsi", "role": "Bowler", "batting": 20, "bowling": 85, "bowlingStyle": "Left Arm Wrist Spin"},
+        {"id": 12, "name": "Rassie van der Dussen", "role": "Batsman", "batting": 82, "bowling": 15},
+        {"id": 13, "name": "Reeza Hendricks", "role": "Batsman", "batting": 80, "bowling": 15},
+        {"id": 14, "name": "Gerald Coetzee", "role": "Bowler", "batting": 35, "bowling": 82, "bowlingStyle": "Fast"},
+        {"id": 15, "name": "Wiaan Mulder", "role": "All-Rounder", "batting": 70, "bowling": 75, "bowlingStyle": "Medium Fast"},
+        {"id": 16, "name": "Tony de Zorzi", "role": "Batsman", "batting": 75, "bowling": 15},
+        {"id": 17, "name": "Sisanda Magala", "role": "Bowler", "batting": 30, "bowling": 80, "bowlingStyle": "Fast Medium"},
+        {"id": 18, "name": "Andile Phehlukwayo", "role": "All-Rounder", "batting": 65, "bowling": 78, "bowlingStyle": "Medium Fast"},
+        {"id": 19, "name": "Tristan Stubbs", "role": "Batsman", "batting": 75, "bowling": 15},
+        {"id": 20, "name": "Lizaad Williams", "role": "Bowler", "batting": 25, "bowling": 78, "bowlingStyle": "Fast Medium"}
+      ]
+    },
+    "New Zealand": {
+      "name": "New Zealand",
+      "players": [
+        {"id": 1, "name": "Kane Williamson", "role": "Batsman", "batting": 90, "bowling": 35, "bowlingStyle": "Off Spin"},
+        {"id": 2, "name": "Tim Southee", "role": "Bowler", "batting": 45, "bowling": 88, "bowlingStyle": "Fast Medium"},
+        {"id": 3, "name": "Trent Boult", "role": "Bowler", "batting": 30, "bowling": 90, "bowlingStyle": "Left Arm Fast"},
+        {"id": 4, "name": "Devon Conway", "role": "Wicket-Keeper", "batting": 88, "bowling": 10},
+        {"id": 5, "name": "Mitchell Santner", "role": "All-Rounder", "batting": 70, "bowling": 85, "bowlingStyle": "Left Arm Spin"},
+        {"id": 6, "name": "Glenn Phillips", "role": "Batsman", "batting": 82, "bowling": 45, "bowlingStyle": "Off Spin"},
+        {"id": 7, "name": "Daryl Mitchell", "role": "All-Rounder", "batting": 82, "bowling": 75, "bowlingStyle": "Medium Fast"},
+        {"id": 8, "name": "Lockie Ferguson", "role": "Bowler", "batting": 25, "bowling": 88, "bowlingStyle": "Fast"},
+        {"id": 9, "name": "Tom Latham", "role": "Wicket-Keeper", "batting": 85, "bowling": 10},
+        {"id": 10, "name": "Matt Henry", "role": "Bowler", "batting": 35, "bowling": 85, "bowlingStyle": "Fast Medium"},
+        {"id": 11, "name": "Will Young", "role": "Batsman", "batting": 80, "bowling": 15},
+        {"id": 12, "name": "Ish Sodhi", "role": "Bowler", "batting": 35, "bowling": 82, "bowlingStyle": "Leg Spin"},
+        {"id": 13, "name": "Henry Nicholls", "role": "Batsman", "batting": 78, "bowling": 25},
+        {"id": 14, "name": "Adam Milne", "role": "Bowler", "batting": 30, "bowling": 85, "bowlingStyle": "Fast"},
+        {"id": 15, "name": "Michael Bracewell", "role": "All-Rounder", "batting": 75, "bowling": 78, "bowlingStyle": "Off Spin"},
+        {"id": 16, "name": "Finn Allen", "role": "Batsman", "batting": 80, "bowling": 15},
+        {"id": 17, "name": "Blair Tickner", "role": "Bowler", "batting": 25, "bowling": 80, "bowlingStyle": "Fast Medium"},
+        {"id": 18, "name": "Mark Chapman", "role": "Batsman", "batting": 75, "bowling": 45, "bowlingStyle": "Left Arm Spin"},
+        {"id": 19, "name": "Kyle Jamieson", "role": "Bowler", "batting": 45, "bowling": 85, "bowlingStyle": "Fast Medium"},
+        {"id": 20, "name": "Rachin Ravindra", "role": "All-Rounder", "batting": 75, "bowling": 75, "bowlingStyle": "Left Arm Spin"}
+      ]
+    },
+    "India": {
+      "name": "India",
+      "players": [
+        {"id": 1, "name": "Rohit Sharma", "role": "Batsman", "batting": 90, "bowling": 35, "bowlingStyle": "Off Spin"},
+        {"id": 2, "name": "Virat Kohli", "role": "Batsman", "batting": 92, "bowling": 25},
+        {"id": 3, "name": "KL Rahul", "role": "Wicket-Keeper", "batting": 85, "bowling": 10},
+        {"id": 4, "name": "Shreyas Iyer", "role": "Batsman", "batting": 82, "bowling": 20},
+        {"id": 5, "name": "Hardik Pandya", "role": "All-Rounder", "batting": 80, "bowling": 82, "bowlingStyle": "Fast Medium"},
+        {"id": 6, "name": "Ravindra Jadeja", "role": "All-Rounder", "batting": 80, "bowling": 85, "bowlingStyle": "Left Arm Spin"},
+        {"id": 7, "name": "Jasprit Bumrah", "role": "Bowler", "batting": 25, "bowling": 92, "bowlingStyle": "Fast"},
+        {"id": 8, "name": "Mohammed Shami", "role": "Bowler", "batting": 20, "bowling": 88, "bowlingStyle": "Fast"},
+        {"id": 9, "name": "Mohammed Siraj", "role": "Bowler", "batting": 20, "bowling": 85, "bowlingStyle": "Fast"},
+        {"id": 10, "name": "Kuldeep Yadav", "role": "Bowler", "batting": 25, "bowling": 85, "bowlingStyle": "Left Arm Wrist Spin"},
+        {"id": 11, "name": "Suryakumar Yadav", "role": "Batsman", "batting": 85, "bowling": 15},
+        {"id": 12, "name": "Ishan Kishan", "role": "Wicket-Keeper", "batting": 82, "bowling": 10},
+        {"id": 13, "name": "Shubman Gill", "role": "Batsman", "batting": 85, "bowling": 15},
+        {"id": 14, "name": "Axar Patel", "role": "All-Rounder", "batting": 75, "bowling": 82, "bowlingStyle": "Left Arm Spin"},
+        {"id": 15, "name": "Shardul Thakur", "role": "All-Rounder", "batting": 65, "bowling": 80, "bowlingStyle": "Fast Medium"}
+      ]
+    },
+    "Australia": {
+      "name": "Australia",
+      "players": [
+        {"id": 1, "name": "Pat Cummins", "role": "All-Rounder", "batting": 65, "bowling": 90, "bowlingStyle": "Fast"},
+        {"id": 2, "name": "Steve Smith", "role": "Batsman", "batting": 90, "bowling": 35, "bowlingStyle": "Leg Spin"},
+        {"id": 3, "name": "David Warner", "role": "Batsman", "batting": 88, "bowling": 25},
+        {"id": 4, "name": "Mitchell Starc", "role": "Bowler", "batting": 45, "bowling": 90, "bowlingStyle": "Left Arm Fast"},
+        {"id": 5, "name": "Josh Hazlewood", "role": "Bowler", "batting": 35, "bowling": 88, "bowlingStyle": "Fast"},
+        {"id": 6, "name": "Mitchell Marsh", "role": "All-Rounder", "batting": 82, "bowling": 78, "bowlingStyle": "Fast Medium"},
+        {"id": 7, "name": "Glenn Maxwell", "role": "All-Rounder", "batting": 85, "bowling": 75, "bowlingStyle": "Off Spin"},
+        {"id": 8, "name": "Alex Carey", "role": "Wicket-Keeper", "batting": 78, "bowling": 10},
+        {"id": 9, "name": "Cameron Green", "role": "All-Rounder", "batting": 75, "bowling": 82, "bowlingStyle": "Fast"},
+        {"id": 10, "name": "Travis Head", "role": "Batsman", "batting": 82, "bowling": 45, "bowlingStyle": "Off Spin"},
+        {"id": 11, "name": "Marnus Labuschagne", "role": "Batsman", "batting": 85, "bowling": 40, "bowlingStyle": "Leg Spin"},
+        {"id": 12, "name": "Marcus Stoinis", "role": "All-Rounder", "batting": 78, "bowling": 75, "bowlingStyle": "Medium Fast"},
+        {"id": 13, "name": "Adam Zampa", "role": "Bowler", "batting": 30, "bowling": 85, "bowlingStyle": "Leg Spin"},
+        {"id": 14, "name": "Josh Inglis", "role": "Wicket-Keeper", "batting": 75, "bowling": 10},
+        {"id": 15, "name": "Sean Abbott", "role": "All-Rounder", "batting": 65, "bowling": 80, "bowlingStyle": "Fast Medium"}
+      ]
+    }
+  },
+  "sa20": {
+    "Joburg Super Kings": {
+      "name": "Joburg Super Kings",
+      "players": [
+        {"id": 1, "name": "Faf du Plessis", "role": "Batsman", "batting": 88, "bowling": 25},
+        {"id": 2, "name": "Reeza Hendricks", "role": "Batsman", "batting": 82, "bowling": 15},
+        {"id": 3, "name": "Leus du Plooy", "role": "Batsman", "batting": 78, "bowling": 30},
+        {"id": 4, "name": "Moeen Ali", "role": "All-Rounder", "batting": 80, "bowling": 82, "bowlingStyle": "Off Spin"},
+        {"id": 5, "name": "Romario Shepherd", "role": "All-Rounder", "batting": 70, "bowling": 80, "bowlingStyle": "Fast Medium"},
+        {"id": 6, "name": "Gerald Coetzee", "role": "Bowler", "batting": 35, "bowling": 85, "bowlingStyle": "Fast"},
+        {"id": 7, "name": "Kyle Abbott", "role": "Bowler", "batting": 30, "bowling": 82, "bowlingStyle": "Fast Medium"},
+        {"id": 8, "name": "George Garton", "role": "Bowler", "batting": 35, "bowling": 80, "bowlingStyle": "Left Arm Fast"},
+        {"id": 9, "name": "Alzarri Joseph", "role": "Bowler", "batting": 30, "bowling": 85, "bowlingStyle": "Fast"},
+        {"id": 10, "name": "Lewis Gregory", "role": "All-Rounder", "batting": 70, "bowling": 78, "bowlingStyle": "Medium Fast"},
+        {"id": 11, "name": "Sibonelo Makhanya", "role": "All-Rounder", "batting": 65, "bowling": 72},
+        {"id": 12, "name": "Nandre Burger", "role": "Bowler", "batting": 25, "bowling": 80, "bowlingStyle": "Fast"},
+        {"id": 13, "name": "Malusi Siboto", "role": "Bowler", "batting": 30, "bowling": 78, "bowlingStyle": "Fast Medium"},
+        {"id": 14, "name": "Donovan Ferreira", "role": "Wicket-Keeper", "batting": 75, "bowling": 10},
+        {"id": 15, "name": "Dayyaan Galiem", "role": "All-Rounder", "batting": 65, "bowling": 75, "bowlingStyle": "Medium Fast"}
+      ]
+    },
+    "MI Cape Town": {
+      "name": "MI Cape Town",
+      "players": [
+        {"id": 1, "name": "Rashid Khan", "role": "All-Rounder", "batting": 65, "bowling": 90, "bowlingStyle": "Leg Spin"},
+        {"id": 2, "name": "Kagiso Rabada", "role": "Bowler", "batting": 35, "bowling": 88, "bowlingStyle": "Fast"},
+        {"id": 3, "name": "Dewald Brevis", "role": "Batsman", "batting": 80, "bowling": 30},
+        {"id": 4, "name": "Rassie van der Dussen", "role": "Batsman", "batting": 85, "bowling": 15},
+        {"id": 5, "name": "Ryan Rickelton", "role": "Wicket-Keeper", "batting": 78, "bowling": 10},
+        {"id": 6, "name": "George Linde", "role": "All-Rounder", "batting": 70, "bowling": 78, "bowlingStyle": "Left Arm Spin"},
+        {"id": 7, "name": "Sam Curran", "role": "All-Rounder", "batting": 75, "bowling": 82, "bowlingStyle": "Left Arm Medium"},
+        {"id": 8, "name": "Duan Jansen", "role": "All-Rounder", "batting": 65, "bowling": 78, "bowlingStyle": "Left Arm Fast"},
+        {"id": 9, "name": "Thomas Kaber", "role": "All-Rounder", "batting": 60, "bowling": 72},
+        {"id": 10, "name": "Olly Stone", "role": "Bowler", "batting": 25, "bowling": 85, "bowlingStyle": "Fast"},
+        {"id": 11, "name": "Delano Potgieter", "role": "All-Rounder", "batting": 65, "bowling": 70},
+        {"id": 12, "name": "Grant Roelofsen", "role": "Wicket-Keeper", "batting": 75, "bowling": 10},
+        {"id": 13, "name": "Beuran Hendricks", "role": "Bowler", "batting": 30, "bowling": 82, "bowlingStyle": "Left Arm Fast"},
+        {"id": 14, "name": "Nealan van Heerden", "role": "Bowler", "batting": 25, "bowling": 75},
+        {"id": 15, "name": "Chris Benjamin", "role": "Wicket-Keeper", "batting": 72, "bowling": 10}
+      ]
+    }
+  },
+  "bpl": {
+    "Rangpur Riders": {
+      "name": "Rangpur Riders",
+      "players": [
+        {"id": 1, "name": "Babar Azam", "role": "Batsman", "batting": 90, "bowling": 20},
+        {"id": 2, "name": "Shakib Al Hasan", "role": "All-Rounder", "batting": 85, "bowling": 88, "bowlingStyle": "Left Arm Spin"},
+        {"id": 3, "name": "Nurul Hasan", "role": "Wicket-Keeper", "batting": 75, "bowling": 10},
+        {"id": 4, "name": "Haris Rauf", "role": "Bowler", "batting": 25, "bowling": 88, "bowlingStyle": "Fast"},
+        {"id": 5, "name": "Azmatullah Omarzai", "role": "All-Rounder", "batting": 70, "bowling": 78},
+        {"id": 6, "name": "Shamim Hossain", "role": "Batsman", "batting": 72, "bowling": 30},
+        {"id": 7, "name": "Mohammad Nawaz", "role": "All-Rounder", "batting": 70, "bowling": 82, "bowlingStyle": "Left Arm Spin"},
+        {"id": 8, "name": "Mahedi Hasan", "role": "All-Rounder", "batting": 65, "bowling": 78, "bowlingStyle": "Off Spin"},
+        {"id": 9, "name": "Hasan Mahmud", "role": "Bowler", "batting": 25, "bowling": 80, "bowlingStyle": "Fast Medium"},
+        {"id": 10, "name": "Rony Talukdar", "role": "Batsman", "batting": 75, "bowling": 15},
+        {"id": 11, "name": "Fazle Mahmud", "role": "All-Rounder", "batting": 65, "bowling": 70},
+        {"id": 12, "name": "Rakibul Hasan", "role": "Bowler", "batting": 30, "bowling": 75, "bowlingStyle": "Left Arm Spin"},
+        {"id": 13, "name": "Ripon Mondol", "role": "Bowler", "batting": 25, "bowling": 72},
+        {"id": 14, "name": "Brandon King", "role": "Batsman", "batting": 78, "bowling": 15},
+        {"id": 15, "name": "Rejaur Rahman Raja", "role": "Bowler", "batting": 20, "bowling": 75}
+      ]
+    },
+    "Dhaka Dominators": {
+      "name": "Dhaka Dominators",
+      "players": [
+        {"id": 1, "name": "Nasir Hossain", "role": "All-Rounder", "batting": 75, "bowling": 72, "bowlingStyle": "Off Spin"},
+        {"id": 2, "name": "Soumya Sarkar", "role": "All-Rounder", "batting": 78, "bowling": 70, "bowlingStyle": "Medium"},
+        {"id": 3, "name": "Taskin Ahmed", "role": "Bowler", "batting": 35, "bowling": 85, "bowlingStyle": "Fast"},
+        {"id": 4, "name": "Mohammad Mithun", "role": "Wicket-Keeper", "batting": 75, "bowling": 10},
+        {"id": 5, "name": "Arafat Sunny", "role": "Bowler", "batting": 30, "bowling": 78, "bowlingStyle": "Left Arm Spin"},
+        {"id": 6, "name": "Usman Ghani", "role": "Batsman", "batting": 72, "bowling": 15},
+        {"id": 7, "name": "Al-Amin Hossain", "role": "Bowler", "batting": 25, "bowling": 80, "bowlingStyle": "Fast Medium"},
+        {"id": 8, "name": "Mizanur Rahman", "role": "Batsman", "batting": 70, "bowling": 20},
+        {"id": 9, "name": "Ahmed Shehzad", "role": "Batsman", "batting": 75, "bowling": 15},
+        {"id": 10, "name": "Chamika Karunaratne", "role": "All-Rounder", "batting": 65, "bowling": 75, "bowlingStyle": "Medium Fast"},
+        {"id": 11, "name": "Ariful Haque", "role": "All-Rounder", "batting": 70, "bowling": 65},
+        {"id": 12, "name": "Anamul Haque", "role": "Wicket-Keeper", "batting": 72, "bowling": 10},
+        {"id": 13, "name": "Monir Khan", "role": "Bowler", "batting": 20, "bowling": 72},
+        {"id": 14, "name": "Salman Irshad", "role": "Bowler", "batting": 25, "bowling": 75},
+        {"id": 15, "name": "Delwar Hossain", "role": "Bowler", "batting": 20, "bowling": 70}
+      ]
+    }
+  },
+  "lpl": {
+    "Colombo Strikers": {
+      "name": "Colombo Strikers",
+      "players": [
+        {"id": 1, "name": "Babar Azam", "role": "Batsman", "batting": 90, "bowling": 20},
+        {"id": 2, "name": "Matheesha Pathirana", "role": "Bowler", "batting": 25, "bowling": 85, "bowlingStyle": "Fast"},
+        {"id": 3, "name": "Naseem Shah", "role": "Bowler", "batting": 20, "bowling": 88, "bowlingStyle": "Fast"},
+        {"id": 4, "name": "Pathum Nissanka", "role": "Batsman", "batting": 82, "bowling": 15},
+        {"id": 5, "name": "Chamika Karunaratne", "role": "All-Rounder", "batting": 70, "bowling": 78, "bowlingStyle": "Medium Fast"},
+        {"id": 6, "name": "Nimesh Vimukthi", "role": "Bowler", "batting": 25, "bowling": 75, "bowlingStyle": "Left Arm Spin"},
+        {"id": 7, "name": "Iftikhar Ahmed", "role": "All-Rounder", "batting": 78, "bowling": 70},
+        {"id": 8, "name": "Mohammad Nawaz", "role": "All-Rounder", "batting": 72, "bowling": 82, "bowlingStyle": "Left Arm Spin"},
+        {"id": 9, "name": "Lakshitha Manasinghe", "role": "Bowler", "batting": 30, "bowling": 75},
+        {"id": 10, "name": "Lahiru Udara", "role": "Wicket-Keeper", "batting": 72, "bowling": 10},
+        {"id": 11, "name": "Dhananjaya Lakshan", "role": "All-Rounder", "batting": 65, "bowling": 72},
+        {"id": 12, "name": "Sadeera Samarawickrama", "role": "Wicket-Keeper", "batting": 75, "bowling": 10},
+        {"id": 13, "name": "Jeffrey Vandersay", "role": "Bowler", "batting": 25, "bowling": 78, "bowlingStyle": "Leg Spin"},
+        {"id": 14, "name": "Vishwa Fernando", "role": "Bowler", "batting": 20, "bowling": 80, "bowlingStyle": "Left Arm Fast"},
+        {"id": 15, "name": "Ramesh Mendis", "role": "All-Rounder", "batting": 65, "bowling": 75, "bowlingStyle": "Off Spin"}
+      ]
+    },
+    "Dambulla Aura": {
+      "name": "Dambulla Aura",
+      "players": [
+        {"id": 1, "name": "Kusal Mendis", "role": "Wicket-Keeper", "batting": 85, "bowling": 10},
+        {"id": 2, "name": "Avishka Fernando", "role": "Batsman", "batting": 82, "bowling": 15},
+        {"id": 3, "name": "Dasun Shanaka", "role": "All-Rounder", "batting": 78, "bowling": 75, "bowlingStyle": "Medium Fast"},
+        {"id": 4, "name": "Dhananjaya de Silva", "role": "All-Rounder", "batting": 80, "bowling": 78, "bowlingStyle": "Off Spin"},
+        {"id": 5, "name": "Sikandar Raza", "role": "All-Rounder", "batting": 82, "bowling": 80, "bowlingStyle": "Off Spin"},
+        {"id": 6, "name": "Hayden Kerr", "role": "All-Rounder", "batting": 70, "bowling": 78},
+        {"id": 7, "name": "Matthew Forde", "role": "Bowler", "batting": 30, "bowling": 82},
+        {"id": 8, "name": "Binura Fernando", "role": "Bowler", "batting": 25, "bowling": 80, "bowlingStyle": "Left Arm Fast"},
+        {"id": 9, "name": "Praveen Jayawickrama", "role": "Bowler", "batting": 20, "bowling": 78, "bowlingStyle": "Left Arm Spin"},
+        {"id": 10, "name": "Kavin Bandara", "role": "Batsman", "batting": 72, "bowling": 15},
+        {"id": 11, "name": "Janith Liyanage", "role": "All-Rounder", "batting": 70, "bowling": 65},
+        {"id": 12, "name": "Nuwanidu Fernando", "role": "Batsman", "batting": 75, "bowling": 20},
+        {"id": 13, "name": "Sachitha Jayathilake", "role": "All-Rounder", "batting": 65, "bowling": 72},
+        {"id": 14, "name": "Ravindu Fernando", "role": "Bowler", "batting": 25, "bowling": 75},
+        {"id": 15, "name": "Dushan Hemantha", "role": "All-Rounder", "batting": 65, "bowling": 70}
+      ]
+    }
+  },
+  "bbl": {
+    "Perth Scorchers": {
+      "name": "Perth Scorchers",
+      "players": [
+        {"id": 1, "name": "Aaron Hardie", "role": "All-Rounder", "batting": 80, "bowling": 75},
+        {"id": 2, "name": "Ashton Turner", "role": "Batsman", "batting": 82, "bowling": 40},
+        {"id": 3, "name": "Josh Inglis", "role": "Wicket-Keeper", "batting": 85, "bowling": 10},
+        {"id": 4, "name": "Jhye Richardson", "role": "Bowler", "batting": 35, "bowling": 85},
+        {"id": 5, "name": "Andrew Tye", "role": "Bowler", "batting": 30, "bowling": 83},
+        {"id": 6, "name": "Ashton Agar", "role": "All-Rounder", "batting": 70, "bowling": 80},
+        {"id": 7, "name": "Cameron Bancroft", "role": "Batsman", "batting": 80, "bowling": 15},
+        {"id": 8, "name": "Jason Behrendorff", "role": "Bowler", "batting": 25, "bowling": 85},
+        {"id": 9, "name": "Cooper Connolly", "role": "All-Rounder", "batting": 70, "bowling": 72},
+        {"id": 10, "name": "Stephen Eskinazi", "role": "Batsman", "batting": 75, "bowling": 20},
+        {"id": 11, "name": "Nick Hobson", "role": "Batsman", "batting": 72, "bowling": 15},
+        {"id": 12, "name": "Matt Kelly", "role": "Bowler", "batting": 30, "bowling": 78},
+        {"id": 13, "name": "Hamish McKenzie", "role": "Bowler", "batting": 20, "bowling": 75},
+        {"id": 14, "name": "Lance Morris", "role": "Bowler", "batting": 25, "bowling": 85},
+        {"id": 15, "name": "Sam Whiteman", "role": "Wicket-Keeper", "batting": 78, "bowling": 10}
+      ]
+    },
+    "Melbourne Stars": {
+      "name": "Melbourne Stars",
+      "players": [
+        {"id": 1, ""name": "Glenn Maxwell", "role": "All-Rounder", "batting": 90, "bowling": 75},
+        {"id": 2, "name": "Marcus Stoinis", "role": "All-Rounder", "batting": 85, "bowling": 75},
+        {"id": 3, "name": "Hilton Cartwright", "role": "All-Rounder", "batting": 75, "bowling": 65},
+        {"id": 4, "name": "Joe Clarke", "role": "Wicket-Keeper", "batting": 80, "bowling": 10},
+        {"id": 5, "name": "Nathan Coulter-Nile", "role": "Bowler", "batting": 45, "bowling": 85},
+        {"id": 6, "name": "Haris Rauf", "role": "Bowler", "batting": 20, "bowling": 88},
+        {"id": 7, "name": "Beau Webster", "role": "All-Rounder", "batting": 75, "bowling": 70},
+        {"id": 8, "name": "Usama Mir", "role": "Bowler", "batting": 30, "bowling": 82},
+        {"id": 9, "name": "Joel Paris", "role": "Bowler", "batting": 35, "bowling": 80},
+        {"id": 10, "name": "Tom Rogers", "role": "Bowler", "batting": 30, "bowling": 78},
+        {"id": 11, "name": "Mark Steketee", "role": "Bowler", "batting": 25, "bowling": 80},
+        {"id": 12, "name": "Brody Couch", "role": "Bowler", "batting": 25, "bowling": 75},
+        {"id": 13, "name": "Nick Larkin", "role": "Batsman", "batting": 75, "bowling": 15},
+        {"id": 14, "name": "Campbell Kellaway", "role": "Batsman", "batting": 70, "bowling": 20},
+        {"id": 15, "name": "Jonathan Merlo", "role": "All-Rounder", "batting": 70, "bowling": 72}
+      ]
+    },
+    "Sydney Sixers": {
+      "name": "Sydney Sixers",
+      "players": [
+        {"id": 1, "name": "Steve Smith", "role": "Batsman", "batting": 90, "bowling": 35},
+        {"id": 2, "name": "Moises Henriques", "role": "All-Rounder", "batting": 82, "bowling": 75},
+        {"id": 3, "name": "Josh Philippe", "role": "Wicket-Keeper", "batting": 85, "bowling": 10},
+        {"id": 4, "name": "Sean Abbott", "role": "All-Rounder", "batting": 70, "bowling": 85},
+        {"id": 5, "name": "Ben Dwarshuis", "role": "Bowler", "batting": 30, "bowling": 82, "bowlingStyle": "Left Arm Fast"}
+      ]
+    }
+  },
+  "lpl": {
+    "Colombo Strikers": {
+      "name": "Colombo Strikers",
+      "players": [
+        {"id": 1, "name": "Babar Azam", "role": "Batsman", "batting": 90, "bowling": 20},
+        {"id": 2, "name": "Matheesha Pathirana", "role": "Bowler", "batting": 25, "bowling": 85, "bowlingStyle": "Fast"},
+        {"id": 3, "name": "Naseem Shah", "role": "Bowler", "batting": 20, "bowling": 88, "bowlingStyle": "Fast"},
+        {"id": 4, "name": "Pathum Nissanka", "role": "Batsman", "batting": 82, "bowling": 15},
+        {"id": 5, "name": "Chamika Karunaratne", "role": "All-Rounder", "batting": 70, "bowling": 78, "bowlingStyle": "Medium Fast"},
+        {"id": 6, "name": "Nimesh Vimukthi", "role": "Bowler", "batting": 25, "bowling": 75, "bowlingStyle": "Left Arm Spin"},
+        {"id": 7, "name": "Iftikhar Ahmed", "role": "All-Rounder", "batting": 78, "bowling": 70},
+        {"id": 8, "name": "Mohammad Nawaz", "role": "All-Rounder", "batting": 72, "bowling": 82, "bowlingStyle": "Left Arm Spin"},
+        {"id": 9, "name": "Lakshitha Manasinghe", "role": "Bowler", "batting": 30, "bowling": 75},
+        {"id": 10, "name": "Lahiru Udara", "role": "Wicket-Keeper", "batting": 72, "bowling": 10},
+        {"id": 11, "name": "Dhananjaya Lakshan", "role": "All-Rounder", "batting": 65, "bowling": 72},
+        {"id": 12, "name": "Sadeera Samarawickrama", "role": "Wicket-Keeper", "batting": 75, "bowling": 10},
+        {"id": 13, "name": "Jeffrey Vandersay", "role": "Bowler", "batting": 25, "bowling": 78, "bowlingStyle": "Leg Spin"},
+        {"id": 14, "name": "Vishwa Fernando", "role": "Bowler", "batting": 20, "bowling": 80, "bowlingStyle": "Left Arm Fast"},
+        {"id": 15, "name": "Ramesh Mendis", "role": "All-Rounder", "batting": 65, "bowling": 75, "bowlingStyle": "Off Spin"}
+      ]
+    },
+    "Dambulla Aura": {
+      "name": "Dambulla Aura",
+      "players": [
+        {"id": 1, "name": "Kusal Mendis", "role": "Wicket-Keeper", "batting": 85, "bowling": 10},
+        {"id": 2, "name": "Avishka Fernando", "role": "Batsman", "batting": 82, "bowling": 15},
+        {"id": 3, "name": "Dasun Shanaka", "role": "All-Rounder", "batting": 78, "bowling": 75, "bowlingStyle": "Medium Fast"},
+        {"id": 4, "name": "Dhananjaya de Silva", "role": "All-Rounder", "batting": 80, "bowling": 78, "bowlingStyle": "Off Spin"},
+        {"id": 5, "name": "Sikandar Raza", "role": "All-Rounder", "batting": 82, "bowling": 80, "bowlingStyle": "Off Spin"},
+        {"id": 6, "name": "Hayden Kerr", "role": "All-Rounder", "batting": 70, "bowling": 78},
+        {"id": 7, "name": "Matthew Forde", "role": "Bowler", "batting": 30, "bowling": 82},
+        {"id": 8, "name": "Binura Fernando", "role": "Bowler", "batting": 25, "bowling": 80, "bowlingStyle": "Left Arm Fast"},
+        {"id": 9, "name": "Praveen Jayawickrama", "role": "Bowler", "batting": 20, "bowling": 78, "bowlingStyle": "Left Arm Spin"},
+        {"id": 10, "name": "Kavin Bandara", "role": "Batsman", "batting": 72, "bowling": 15},
+        {"id": 11, "name": "Janith Liyanage", "role": "All-Rounder", "batting": 70, "bowling": 65},
+        {"id": 12, "name": "Nuwanidu Fernando", "role": "Batsman", "batting": 75, "bowling": 20},
+        {"id": 13, "name": "Sachitha Jayathilake", "role": "All-Rounder", "batting": 65, "bowling": 72},
+        {"id": 14, "name": "Ravindu Fernando", "role": "Bowler", "batting": 25, "bowling": 75},
+        {"id": 15, "name": "Dushan Hemantha", "role": "All-Rounder", "batting": 65, "bowling": 70}
+      ]
+    }
+  },
+  "Netherlands": {
+    "name": "Netherlands",
+    "players": [
+      {"id": 1, "name": "Scott Edwards", "role": "Wicket-Keeper", "batting": 78, "bowling": 10},
+      {"id": 2, "name": "Max O'Dowd", "role": "Batsman", "batting": 82, "bowling": 15},
+      {"id": 3, "name": "Tom Cooper", "role": "All-Rounder", "batting": 78, "bowling": 75, "bowlingStyle": "Leg Spin"},
+      {"id": 4, "name": "Bas de Leede", "role": "All-Rounder", "batting": 75, "bowling": 78, "bowlingStyle": "Off Spin"},
+      {"id": 5, "name": "Colin Ackermann", "role": "All-Rounder", "batting": 75, "bowling": 70, "bowlingStyle": "Off Spin"},
+      {"id": 6, "name": "Teja Nidamanuru", "role": "Batsman", "batting": 72, "bowling": 20},
+      {"id": 7, "name": "Vikram Singh", "role": "Batsman", "batting": 70, "bowling": 15},
+      {"id": 8, "name": "Fred Klaassen", "role": "Bowler", "batting": 30, "bowling": 85, "bowlingStyle": "Fast Medium"},
+      {"id": 9, "name": "Logan van Beek", "role": "All-Rounder", "batting": 65, "bowling": 82, "bowlingStyle": "Fast Medium"},
+      {"id": 10, "name": "Paul van Meekeren", "role": "Bowler", "batting": 25, "bowling": 80, "bowlingStyle": "Fast Medium"},
+      {"id": 11, "name": "Brandon Glover", "role": "Bowler", "batting": 20, "bowling": 80, "bowlingStyle": "Fast"},
+      {"id": 12, "name": "Tim Pringle", "role": "All-Rounder", "batting": 60, "bowling": 75, "bowlingStyle": "Left Arm Spin"},
+      {"id": 13, "name": "Shariz Ahmad", "role": "Bowler", "batting": 20, "bowling": 78, "bowlingStyle": "Left Arm Spin"},
+      {"id": 14, "name": "Saqib Zulfiqar", "role": "Bowler", "batting": 25, "bowling": 75, "bowlingStyle": "Left Arm Spin"},
+      {"id": 15, "name": "Vivian Kingma", "role": "Bowler", "batting": 20, "bowling": 72, "bowlingStyle": "Fast Medium"},
+      {"id": 16, "name": "Wesley Barresi", "role": "Batsman", "batting": 70, "bowling": 10},
+      {"id": 17, "name": "Mylo Dolman", "role": "Batsman", "batting": 68, "bowling": 10},
+      {"id": 18, "name": "Roelof van der Merwe", "role": "All-Rounder", "batting": 65, "bowling": 70, "bowlingStyle": "Left Arm Spin"},
+      {"id": 19, "name": "Pieter Seelar", "role": "Batsman", "batting": 65, "bowling": 10},
+      {"id": 20, "name": "Teun de Bruijn", "role": "Batsman", "batting": 60, "bowling": 10}
+    ]
+  },
+  "Bangladesh": {
+    "name": "Bangladesh",
+    "players": [
+      {"id": 1, "name": "Shakib Al Hasan", "role": "All-Rounder", "batting": 88, "bowling": 88, "bowlingStyle": "Left Arm Spin"},
+      {"id": 2, "name": "Mushfiqur Rahim", "role": "Wicket-Keeper", "batting": 85, "bowling": 10},
+      {"id": 3, "name": "Litton Das", "role": "Wicket-Keeper", "batting": 82, "bowling": 10},
+      {"id": 4, "name": "Mehidy Hasan", "role": "All-Rounder", "batting": 75, "bowling": 85, "bowlingStyle": "Off Spin"},
+      {"id": 5, "name": "Taskin Ahmed", "role": "Bowler", "batting": 30, "bowling": 85, "bowlingStyle": "Fast"},
+      {"id": 6, "name": "Tamim Iqbal", "role": "Batsman", "batting": 88, "bowling": 15},
+      {"id": 7, "name": "Mahmudullah", "role": "All-Rounder", "batting": 80, "bowling": 75, "bowlingStyle": "Off Spin"},
+      {"id": 8, "name": "Mustafizur Rahman", "role": "Bowler", "batting": 25, "bowling": 88, "bowlingStyle": "Left Arm Fast"},
+      {"id": 9, "name": "Najmul Hossain", "role": "Batsman", "batting": 80, "bowling": 20},
+      {"id": 10, "name": "Towhid Hridoy", "role": "Batsman", "batting": 75, "bowling": 15},
+      {"id": 11, "name": "Shoriful Islam", "role": "Bowler", "batting": 25, "bowling": 82, "bowlingStyle": "Left Arm Fast"},
+      {"id": 12, "name": "Nasum Ahmed", "role": "Bowler", "batting": 20, "bowling": 80, "bowlingStyle": "Left Arm Spin"},
+      {"id": 13, "name": "Hasan Mahmud", "role": "Bowler", "batting": 25, "bowling": 80, "bowlingStyle": "Fast Medium"},
+      {"id": 14, "name": "Afif Hossain", "role": "All-Rounder", "batting": 72, "bowling": 70, "bowlingStyle": "Off Spin"},
+      {"id": 15, "name": "Mahedi Hasan", "role": "All-Rounder", "batting": 70, "bowling": 75, "bowlingStyle": "Off Spin"},
+      {"id": 16, "name": "Zakir Hasan", "role": "Batsman", "batting": 75, "bowling": 15},
+      {"id": 17, "name": "Ebadot Hossain", "role": "Bowler", "batting": 20, "bowling": 82, "bowlingStyle": "Fast"},
+      {"id": 18, "name": "Yasir Ali", "role": "Batsman", "batting": 72, "bowling": 15},
+      {"id": 19, "name": "Tanzim Hasan", "role": "Bowler", "batting": 20, "bowling": 78, "bowlingStyle": "Fast Medium"},
+      {"id": 20, "name": "Nurul Hasan", "role": "Wicket-Keeper", "batting": 72, "bowling": 10}
+    ]
+  },
+  "Sri Lanka": {
+    "name": "Sri Lanka",
+    "players": [
+      {"id": 1, "name": "Kusal Mendis", "role": "Wicket-Keeper", "batting": 85, "bowling": 10},
+      {"id": 2, "name": "Pathum Nissanka", "role": "Batsman", "batting": 82, "bowling": 15},
+      {"id": 3, "name": "Wanindu Hasaranga", "role": "All-Rounder", "batting": 75, "bowling": 90, "bowlingStyle": "Leg Spin"},
+      {"id": 4, "name": "Dasun Shanaka", "role": "All-Rounder", "batting": 78, "bowling": 75, "bowlingStyle": "Medium Fast"},
+      {"id": 5, "name": "Dhananjaya de Silva", "role": "All-Rounder", "batting": 80, "bowling": 78, "bowlingStyle": "Off Spin"},
+      {"id": 6, "name": "Charith Asalanka", "role": "Batsman", "batting": 80, "bowling": 30},
+      {"id": 7, "name": "Matheesha Pathirana", "role": "Bowler", "batting": 20, "bowling": 85, "bowlingStyle": "Fast"},
+      {"id": 8, "name": "Maheesh Theekshana", "role": "Bowler", "batting": 25, "bowling": 85, "bowlingStyle": "Off Spin"},
+      {"id": 9, "name": "Dilshan Madushanka", "role": "Bowler", "batting": 25, "bowling": 82, "bowlingStyle": "Left Arm Fast"},
+      {"id": 10, "name": "Sadeera Samarawickrama", "role": "Wicket-Keeper", "batting": 75, "bowling": 10},
+      {"id": 11, "name": "Dunith Wellalage", "role": "All-Rounder", "batting": 65, "bowling": 78, "bowlingStyle": "Left Arm Spin"},
+      {"id": 12, "name": "Kasun Rajitha", "role": "Bowler", "batting": 25, "bowling": 82, "bowlingStyle": "Fast Medium"},
+      {"id": 13, "name": "Lahiru Kumara", "role": "Bowler", "batting": 20, "bowling": 85, "bowlingStyle": "Fast"},
+      {"id": 14, "name": "Kusal Perera", "role": "Wicket-Keeper", "batting": 82, "bowling": 10},
+      {"id": 15, "name": "Jeffrey Vandersay", "role": "Bowler", "batting": 25, "bowling": 78, "bowlingStyle": "Leg Spin"},
+      {"id": 16, "name": "Chamika Karunaratne", "role": "All-Rounder", "batting": 70, "bowling": 75, "bowlingStyle": "Fast Medium"},
+      {"id": 17, "name": "Pramod Madushan", "role": "Bowler", "batting": 20, "bowling": 80, "bowlingStyle": "Fast Medium"},
+      {"id": 18, "name": "Dimuth Karunaratne", "role": "Batsman", "batting": 85, "bowling": 20},
+      {"id": 19, "name": "Angelo Mathews", "role": "All-Rounder", "batting": 82, "bowling": 75, "bowlingStyle": "Medium Fast"},
+      {"id": 20, "name": "Ashen Bandara", "role": "Batsman", "batting": 72, "bowling": 15}
+    ]
+  },
+  "Afghanistan": {
+    "name": "Afghanistan",
+    "players": [
+      {"id": 1, "name": "Rashid Khan", "role": "All-Rounder", "batting": 70, "bowling": 92, "bowlingStyle": "Leg Spin"},
+      {"id": 2, "name": "Mohammad Nabi", "role": "All-Rounder", "batting": 75, "bowling": 85, "bowlingStyle": "Off Spin"},
+      {"id": 3, "name": "Rahmanullah Gurbaz", "role": "Wicket-Keeper", "batting": 85, "bowling": 10},
+      {"id": 4, "name": "Ibrahim Zadran", "role": "Batsman", "batting": 82, "bowling": 15},
+      {"id": 5, "name": "Mujeeb Ur Rahman", "role": "Bowler", "batting": 30, "bowling": 88, "bowlingStyle": "Off Spin"},
+      {"id": 6, "name": "Hashmatullah Shahidi", "role": "Batsman", "batting": 80, "bowling": 20},
+      {"id": 7, "name": "Najibullah Zadran", "role": "Batsman", "batting": 78, "bowling": 15},
+      {"id": 8, "name": "Fazalhaq Farooqi", "role": "Bowler", "batting": 20, "bowling": 85, "bowlingStyle": "Left Arm Fast"},
+      {"id": 9, "name": "Naveen-ul-Haq", "role": "Bowler", "batting": 25, "bowling": 85, "bowlingStyle": "Fast Medium"},
+      {"id": 10, "name": "Azmatullah Omarzai", "role": "All-Rounder", "batting": 70, "bowling": 78, "bowlingStyle": "Fast Medium"},
+      {"id": 11, "name": "Rahmat Shah", "role": "Batsman", "batting": 80, "bowling": 35},
+      {"id": 12, "name": "Mohammad Saleem", "role": "Bowler", "batting": 20, "bowling": 82, "bowlingStyle": "Fast"},
+      {"id": 13, "name": "Noor Ahmad", "role": "Bowler", "batting": 25, "bowling": 82, "bowlingStyle": "Left Arm Wrist Spin"},
+      {"id": 14, "name": "Abdul Rahman", "role": "Bowler", "batting": 20, "bowling": 80, "bowlingStyle": "Left Arm Spin"},
+      {"id": 15, "name": "Ikram Alikhil", "role": "Wicket-Keeper", "batting": 72, "bowling": 10},
+      {"id": 16, "name": "Qais Ahmad", "role": "Bowler", "batting": 30, "bowling": 82, "bowlingStyle": "Leg Spin"},
+      {"id": 17, "name": "Gulbadin Naib", "role": "All-Rounder", "batting": 70, "bowling": 75, "bowlingStyle": "Medium Fast"},
+      {"id": 18, "name": "Karim Janat", "role": "All-Rounder", "batting": 65, "bowling": 75, "bowlingStyle": "Medium Fast"},
+      {"id": 19, "name": "Sharafuddin Ashraf", "role": "All-Rounder", "batting": 60, "bowling": 75, "bowlingStyle": "Left Arm Spin"},
+      {"id": 20, "name": "Riaz Hassan", "role": "Batsman", "batting": 70, "bowling": 15}
+    ]
+  },
+  "Scotland": {
+    "name": "Scotland",
+    "players": [
+      {"id": 1, "name": "Richie Berrington", "role": "Batsman", "batting": 80, "bowling": 35, "bowlingStyle": "Medium Fast"},
+      {"id": 2, "name": "Matthew Cross", "role": "Wicket-Keeper", "batting": 78, "bowling": 10},
+      {"id": 3, "name": "Calum MacLeod", "role": "Batsman", "batting": 82, "bowling": 25},
+      {"id": 4, "name": "George Munsey", "role": "Batsman", "batting": 80, "bowling": 15},
+      {"id": 5, "name": "Chris Greaves", "role": "All-Rounder", "batting": 70, "bowling": 75, "bowlingStyle": "Leg Spin"},
+      {"id": 6, "name": "Mark Watt", "role": "Bowler", "batting": 35, "bowling": 82, "bowlingStyle": "Left Arm Spin"},
+      {"id": 7, "name": "Safyaan Sharif", "role": "Bowler", "batting": 40, "bowling": 80, "bowlingStyle": "Fast Medium"},
+      {"id": 8, "name": "Michael Leask", "role": "All-Rounder", "batting": 72, "bowling": 75, "bowlingStyle": "Off Spin"},
+      {"id": 9, "name": "Brandon McMullen", "role": "All-Rounder", "batting": 70, "bowling": 78, "bowlingStyle": "Medium Fast"},
+      {"id": 10, "name": "Christopher McBride", "role": "Batsman", "batting": 75, "bowling": 20},
+      {"id": 11, "name": "Hamza Tahir", "role": "Bowler", "batting": 25, "bowling": 78, "bowlingStyle": "Left Arm Spin"},
+      {"id": 12, "name": "Gavin Main", "role": "Bowler", "batting": 30, "bowling": 80, "bowlingStyle": "Fast"},
+      {"id": 13, "name": "Adrian Neill", "role": "Bowler", "batting": 25, "bowling": 78, "bowlingStyle": "Fast Medium"},
+      {"id": 14, "name": "Oliver Hairs", "role": "Batsman", "batting": 72, "bowling": 30},
+      {"id": 15, "name": "Kyle Coetzer", "role": "Batsman", "batting": 82, "bowling": 25},
+      {"id": 16, "name": "Dylan Budge", "role": "Batsman", "batting": 70, "bowling": 20},
+      {"id": 17, "name": "Jack Jarvis", "role": "All-Rounder", "batting": 65, "bowling": 75, "bowlingStyle": "Medium Fast"},
+      {"id": 18, "name": "Chris Sole", "role": "Bowler", "batting": 25, "bowling": 80, "bowlingStyle": "Fast"},
+      {"id": 19, "name": "Brad Currie", "role": "Bowler", "batting": 20, "bowling": 78, "bowlingStyle": "Left Arm Fast"},
+      {"id": 20, "name": "Tom Mackintosh", "role": "Wicket-Keeper", "batting": 72, "bowling": 10}
+    ]
+  },
+  "UAE": {
+    "name": "UAE",
+    "players": [
+      {"id": 1, "name": "Muhammad Waseem", "role": "Batsman", "batting": 82, "bowling": 30},
+      {"id": 2, "name": "Vriitya Aravind", "role": "Wicket-Keeper", "batting": 78, "bowling": 10},
+      {"id": 3, "name": "CP Rizwan", "role": "Batsman", "batting": 80, "bowling": 25},
+      {"id": 4, "name": "Asif Khan", "role": "Batsman", "batting": 78, "bowling": 20},
+      {"id": 5, "name": "Rohan Mustafa", "role": "All-Rounder", "batting": 75, "bowling": 78, "bowlingStyle": "Off Spin"},
+      {"id": 6, "name": "Basil Hameed", "role": "All-Rounder", "batting": 72, "bowling": 75, "bowlingStyle": "Off Spin"},
+      {"id": 7, "name": "Junaid Siddique", "role": "Bowler", "batting": 35, "bowling": 82, "bowlingStyle": "Fast Medium"},
+      {"id": 8, "name": "Zahoor Khan", "role": "Bowler", "batting": 30, "bowling": 85, "bowlingStyle": "Fast"},
+      {"id": 9, "name": "Karthik Meiyappan", "role": "Bowler", "batting": 35, "bowling": 80, "bowlingStyle": "Leg Spin"},
+      {"id": 10, "name": "Raja Akifullah", "role": "Bowler", "batting": 25, "bowling": 78, "bowlingStyle": "Fast Medium"},
+      {"id": 11, "name": "Alishan Sharafu", "role": "Batsman", "batting": 75, "bowling": 25},
+      {"id": 12, "name": "Aayan Afzal Khan", "role": "All-Rounder", "batting": 70, "bowling": 75, "bowlingStyle": "Left Arm Spin"},
+      {"id": 13, "name": "Sanchit Sharma", "role": "Bowler", "batting": 30, "bowling": 78, "bowlingStyle": "Fast Medium"},
+      {"id": 14, "name": "Aryansh Sharma", "role": "Wicket-Keeper", "batting": 72, "bowling": 10},
+      {"id": 15, "name": "Ali Naseer", "role": "All-Rounder", "batting": 70, "bowling": 72, "bowlingStyle": "Fast Medium"},
+      {"id": 16, "name": "Dhruv Parashar", "role": "All-Rounder", "batting": 68, "bowling": 70, "bowlingStyle": "Medium Fast"},
+      {"id": 17, "name": "Muhammad Jawadullah", "role": "Bowler", "batting": 25, "bowling": 80, "bowlingStyle": "Left Arm Fast"},
+      {"id": 18, "name": "Rahul Bhatia", "role": "Bowler", "batting": 20, "bowling": 75, "bowlingStyle": "Left Arm Spin"},
+      {"id": 19, "name": "Ethan DSouza", "role": "Batsman", "batting": 70, "bowling": 15},
+      {"id": 20, "name": "Tanish Suri", "role": "Wicket-Keeper", "batting": 70, "bowling": 10}
+    ]
+  },
+  "Oman": {
+    "name": "Oman",
+    "players": [
+      {"id": 1, "name": "Zeeshan Maqsood", "role": "All-Rounder", "batting": 80, "bowling": 82, "bowlingStyle": "Left Arm Spin"},
+      {"id": 2, "name": "Aqib Ilyas", "role": "All-Rounder", "batting": 82, "bowling": 75, "bowlingStyle": "Medium Fast"},
+      {"id": 3, "name": "Jatinder Singh", "role": "Batsman", "batting": 80, "bowling": 20},
+      {"id": 4, "name": "Kashyap Prajapati", "role": "Batsman", "batting": 78, "bowling": 25},
+      {"id": 5, "name": "Ayaan Khan", "role": "All-Rounder", "batting": 75, "bowling": 78, "bowlingStyle": "Left Arm Spin"},
+      {"id": 6, "name": "Naseem Khushi", "role": "Wicket-Keeper", "batting": 72, "bowling": 10},
+      {"id": 7, "name": "Khawar Ali", "role": "All-Rounder", "batting": 72, "bowling": 78, "bowlingStyle": "Leg Spin"},
+      {"id": 8, "name": "Bilal Khan", "role": "Bowler", "batting": 25, "bowling": 85, "bowlingStyle": "Left Arm Fast"},
+      {"id": 9name": "Fayyaz Butt", "role": "Bowler", "batting": 35, "bowling": 82, "bowlingStyle": "Fast Medium"},
+      {"id": 10, "name": "Kaleemullah", "role": "Bowler", "batting": 20, "bowling": 82, "bowlingStyle": "Fast"},
+      {"id": 11, "name": "Mohammad Nadeem", "role": "All-Rounder", "batting": 70, "bowling": 75, "bowlingStyle": "Medium Fast"},
+      {"id": 12, "name": "Sandeep Goud", "role": "All-Rounder", "batting": 72, "bowling": 70, "bowlingStyle": "Medium"},
+      {"id": 13, "name": "Shoaib Khan", "role": "Batsman", "batting": 75, "bowling": 15},
+      {"id": 14, "name": "Pratik Athavale", "role": "Wicket-Keeper", "batting": 70, "bowling": 10},
+      {"id": 15, "name": "Rafiullah", "role": "All-Rounder", "batting": 68, "bowling": 75, "bowlingStyle": "Medium Fast"},
+      {"id": 16, "name": "Jay Odedra", "role": "All-Rounder", "batting": 65, "bowling": 78, "bowlingStyle": "Fast Medium"},
+      {"id": 17, "name": "Mehran Khan", "role": "Bowler", "batting": 25, "bowling": 80, "bowlingStyle": "Fast"},
+      {"id": 18, "name": "Shakeel Ahmad", "role": "Batsman", "batting": 72, "bowling": 20},
+      {"id": 19, "name": "Syed Aamir Kaleem", "role": "All-Rounder", "batting": 70, "bowling": 75, "bowlingStyle": "Left Arm Spin"},
+      {"id": 20, "name": "Samay Shrivastava", "role": "Batsman", "batting": 70, "bowling": 15}
+    ]
+  }
+}
